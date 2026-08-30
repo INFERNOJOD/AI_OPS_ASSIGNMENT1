@@ -5,7 +5,7 @@ This repository contains the required code files, MLflow tracking scripts, and D
 
 **Repository Structure**
 * `Q1/`: Contains scripts for basic MLflow experiment tracking, parameter logging, and metric recording. 
-* `Q2/`: Contains scripts demonstrating model registry operations and hyperparameter tuning tracked via MLflow.
+* `Q2/`: Contains sweep.py which is the training script and model_comparison.png
 * `Q3/`: Contains the data.dvc , video , dvcignore.
 * `Q4/`: Contains the video link and repo link.
 
