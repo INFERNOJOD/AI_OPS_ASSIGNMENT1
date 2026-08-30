@@ -8,3 +8,7 @@ For Q3 is the part where i had taken AI assistance the most , Mostly for only de
 For Q4 i did with the assistance of my friends only when required rest i did on my own
 
 Overall I have used AI assistance for 20% assistance mainly for debugging the code or to get better alternatives.
+
+
+
+Only gemini was used for help/debugging
