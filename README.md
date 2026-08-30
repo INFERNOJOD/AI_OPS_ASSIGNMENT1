@@ -7,7 +7,7 @@ This repository contains the required code files, MLflow tracking scripts, and D
 * `Q1/`: Contains scripts for basic MLflow experiment tracking, parameter logging, and metric recording. 
 * `Q2/`: Contains scripts demonstrating model registry operations and hyperparameter tuning tracked via MLflow.
 * `Q3/`: Contains the DVC pipeline demonstrating dataset versioning, updates, and rollback operations configured with an external SSH remote.
-* `Q4/`: Contains the collaborative MLflow workflow. Commits from both partners are strictly distinguishable.
+* `Q4/`: Contains the video link and repo link.
 
 **Setup & Execution Instructions**
 1. **Prerequisites:** Ensure `mlflow` and `dvc[ssh]` are installed in your environment.
