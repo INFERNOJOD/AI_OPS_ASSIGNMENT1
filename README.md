@@ -1,9 +1,6 @@
 # Assignment 1: MLflow and DVC 
 
 **Author:** Krish Yadav (DA24B043)  
-**Demo Video:** [Insert Google Drive/YouTube Link Here - Ensure access is public]  
-**Q4 Collaborative Repository:** [Insert Q4 Repo Link Here, if kept separate]  
-
 This repository contains the required code files, MLflow tracking scripts, and DVC configurations for Assignment 1. 
 
 **Repository Structure**
