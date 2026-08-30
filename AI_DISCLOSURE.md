@@ -11,4 +11,5 @@ Overall I have used AI assistance for 20% assistance mainly for debugging the co
 
 
 
-Only gemini was used for help/debugging
+Only gemini was used for help/debugging.
+
